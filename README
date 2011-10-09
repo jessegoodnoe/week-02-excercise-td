@@ -1,0 +1,4 @@
+I wrote an rspec test for a symbol, because symbols seem to be a ruby-esque feature.
+
+here is a helpful url:
+http://rubydoc.info/stdlib/core/1.9.2/Symbol
