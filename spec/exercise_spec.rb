@@ -8,7 +8,7 @@ describe "Symbols" do
       value = "hilbert"
       expected_value = :hilbert
 
-      value.should eq expected_value
+      value.should eq expected_value.to_s
 
     end
 
